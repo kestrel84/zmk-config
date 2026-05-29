@@ -19,7 +19,7 @@
 #
 ---
 include:
-  - board: nrf52840_m2
+  - board: nrfmicro_11_flipped
     shield: sofle_left
-  - board: nrf52840_m2
+  - board: nrfmicro_11_flipped
     shield: sofle_right
